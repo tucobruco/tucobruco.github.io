@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Martino</title>
-    <link>https://martino.life/categories/</link>
+    <link>https://tucobruco.github.io/categories/</link>
     <description>Recent content in Categories on Martino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Grazie di cuore a tutti!</copyright><atom:link href="https://martino.life/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Grazie di cuore a tutti!</copyright><atom:link href="https://tucobruco.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
