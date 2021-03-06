@@ -3,74 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tucobruco.github.io/products/bagnetto/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/bb_sacco/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/fascia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/fasciatoio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/felpe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/giochi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/giostrina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/luce/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/palestrina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/pappa/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/scaldino/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/sdraietta/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/seggiolone/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/sterilizzatore/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/termometro/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/tutine/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tucobruco.github.io/products/vaschetta/</loc>
-  </url>
-  
-  <url>
     <loc>https://tucobruco.github.io/products/aspiratore/</loc>
   </url>
   
@@ -96,6 +28,10 @@
   
   <url>
     <loc>https://tucobruco.github.io/products/culla/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/giostrina/</loc>
   </url>
   
   <url>
@@ -127,6 +63,14 @@
   </url>
   
   <url>
+    <loc>https://tucobruco.github.io/products/pagliaccetto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/palestrina/</loc>
+  </url>
+  
+  <url>
     <loc>https://tucobruco.github.io/products/passeggino/</loc>
   </url>
   
@@ -139,6 +83,22 @@
   </url>
   
   <url>
+    <loc>https://tucobruco.github.io/products/scaldino/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/sdraietta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/seggiolone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/sterilizzatore/</loc>
+  </url>
+  
+  <url>
     <loc>https://tucobruco.github.io/tags/</loc>
   </url>
   
@@ -147,11 +107,19 @@
   </url>
   
   <url>
-    <loc>https://tucobruco.github.io/products/dono/</loc>
+    <loc>https://tucobruco.github.io/products/termometro/</loc>
   </url>
   
   <url>
-    <loc>https://tucobruco.github.io/products/bb_zanzariera/</loc>
+    <loc>https://tucobruco.github.io/products/tutine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/vaschetta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tucobruco.github.io/products/dono/</loc>
   </url>
   
 </urlset>
