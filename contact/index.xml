@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Martino</title>
-    <link>https://tucobruco.github.io/contact/</link>
+    <link>https://martino.life/contact/</link>
     <description>Recent content in Contact on Martino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Grazie di cuore a tutti!</copyright><atom:link href="https://tucobruco.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Grazie di cuore a tutti!</copyright><atom:link href="https://martino.life/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
